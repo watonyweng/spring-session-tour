@@ -10,7 +10,7 @@ This project was generated with [spring-boot](https://github.com/spring-projects
 ## Installation
 
 - git clone https://github.com/watonyweng/spring-session-tour.git
-- cd spring-session-tour && mvn clean install
+- cd spring-session-tour
 
 ## Compile
 
